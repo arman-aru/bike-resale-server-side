@@ -11,3 +11,5 @@ Server Side Repo: https://github.com/programming-hero-web-course-4/b612-used-pro
 # ⚫ This Project based on resale bike .
 
 # ⚫ In the website i make Unique header with some Unique feature .
+
+# ⚫ This Website header create with dynamic route that's why we don't need much time to reload page when we click on pages.
